@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<title>Exported from Notepad++</title>
+<style type="text/css">
+span {
+	font-family: 'Consolas';
+	font-size: 10pt;
+	color: #DCDCCC;
+}
+.sc0 {
+}
+.sc1 {
+	color: #E3CEAB;
+}
+.sc2 {
+	color: #CEDF99;
+}
+.sc4 {
+	color: #CEDF99;
+	background: #FF0000;
+}
+.sc5 {
+	font-weight: bold;
+	color: #9F9D6D;
+}
+</style>
+</head>
+<body>
+<div style="float: left; white-space: pre; line-height: 1; background: #3F3F3F; "><span class="sc0">&lt;</span><span class="sc5">!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.</span><span class="sc2">0</span><span class="sc1"> Strict//EN" "http</span><span class="sc5">:</span><span class="sc1">//www</span><span class="sc5">.</span><span class="sc2">w3</span><span class="sc5">.</span><span class="sc2">org</span><span class="sc1">/TR/xhtml1/DTD/xhtml1-strict</span><span class="sc5">.</span><span class="sc2">dtd</span><span class="sc1">"</span><span class="sc5">&gt;</span><span class="sc0">
+&lt;</span><span class="sc1">html</span><span class="sc5">&gt;</span><span class="sc0">
+&lt;</span><span class="sc1">head</span><span class="sc5">&gt;</span><span class="sc0">
+
+    &lt;</span><span class="sc1">title</span><span class="sc5">&gt;</span><span class="sc1">Jonathan Doe </span><span class="sc5">|</span><span class="sc0"> </span><span class="sc1">Web Designer</span><span class="sc5">,</span><span class="sc0"> </span><span class="sc1">Director </span><span class="sc5">|</span><span class="sc0"> </span><span class="sc1">name</span><span class="sc5">@yourdomain.</span><span class="sc2">com</span><span class="sc1">&lt;/title</span><span class="sc5">&gt;</span><span class="sc0">
+    &lt;</span><span class="sc1">meta http-equiv</span><span class="sc5">="content-type" content="text/html; charset=utf-8" /&gt;</span><span class="sc0">
+
+    &lt;</span><span class="sc1">meta name</span><span class="sc5">="keywords" content="" /&gt;</span><span class="sc0">
+    &lt;</span><span class="sc1">meta name</span><span class="sc5">="description" content="" /&gt;</span><span class="sc0">
+
+    &lt;</span><span class="sc1">link rel</span><span class="sc5">="stylesheet" type="text/css" href="http:</span><span class="sc1">//yui</span><span class="sc5">.</span><span class="sc2">yahooapis</span><span class="sc5">.</span><span class="sc2">com</span><span class="sc1">/2</span><span class="sc5">.</span><span class="sc2">7</span><span class="sc5">.</span><span class="sc2">0</span><span class="sc1">/build/reset-fonts-grids/reset-fonts-grids</span><span class="sc5">.</span><span class="sc2">css</span><span class="sc1">" media</span><span class="sc5">="all" /&gt;</span><span class="sc0"> 
+    &lt;</span><span class="sc1">link rel</span><span class="sc5">="stylesheet" type="text/css" href="resume.</span><span class="sc2">css</span><span class="sc1">" media</span><span class="sc5">="all" /&gt;</span><span class="sc0">
+
+&lt;/</span><span class="sc1">head</span><span class="sc5">&gt;</span><span class="sc0">
+&lt;</span><span class="sc1">body</span><span class="sc5">&gt;</span><span class="sc0">
+
+&lt;</span><span class="sc1">div id</span><span class="sc5">="doc2" class="yui-t7"&gt;</span><span class="sc0">
+    &lt;</span><span class="sc1">div id</span><span class="sc5">="inner"&gt;</span><span class="sc0">
+    
+        &lt;</span><span class="sc1">div id</span><span class="sc5">="hd"&gt;</span><span class="sc0">
+            &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-gc"&gt;</span><span class="sc0">
+                &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u first"&gt;</span><span class="sc0">
+                    &lt;</span><span class="sc1">h1</span><span class="sc5">&gt;</span><span class="sc1">Jonathan Doe&lt;/h1</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Web Designer</span><span class="sc5">,</span><span class="sc0"> </span><span class="sc1">Director&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+                &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u"&gt;</span><span class="sc0">
+                    &lt;</span><span class="sc1">div class</span><span class="sc5">="contact-info"&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc1">a id</span><span class="sc5">="pdf" href="#</span><span class="sc1">"</span><span class="sc5">&gt;</span><span class="sc1">Download PDF&lt;/a</span><span class="sc5">&gt;</span><span class="sc0">&lt;/</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc1">a href</span><span class="sc5">="mailto:</span><span class="sc4">name</span><span class="sc5">@yourdomain.</span><span class="sc2">com</span><span class="sc1">"</span><span class="sc5">&gt;</span><span class="sc1">name</span><span class="sc5">@yourdomain.</span><span class="sc2">com</span><span class="sc1">&lt;/a</span><span class="sc5">&gt;</span><span class="sc0">&lt;/</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;(313)</span><span class="sc1"> - 867-5309&lt;/h3</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">contact-info</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+                &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+            &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-gc</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// hd --&gt;
+
+        &lt;div id="bd"&gt;
+            &lt;div id="yui-main"&gt;
+                &lt;div class="yui-b"&gt;
+
+                    &lt;div class="yui-gf"&gt;
+                        &lt;div class="yui-u first"&gt;
+                            &lt;h2&gt;Profile&lt;/h2&gt;
+                        &lt;/div&gt;
+                        &lt;div class="yui-u"&gt;
+                            &lt;p class="enlarge"&gt;
+                                Progressively evolve cross-platform ideas before impactful infomediaries.</span><span class="sc1"> Energistically visualize tactical initiatives before cross-media catalysts for change</span><span class="sc5">.</span><span class="sc1"> 
+                            &lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-gf</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+
+                    &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-gf"&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u first"&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Skills&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u"&gt;</span><span class="sc0">
+
+                                &lt;</span><span class="sc1">div class</span><span class="sc5">="talent"&gt;</span><span class="sc0">
+                                    &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Web Design&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                    &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Assertively exploit wireless initiatives rather than synergistic core competencies</span><span class="sc5">.</span><span class="sc1">  &lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+                                &lt;</span><span class="sc1">div class</span><span class="sc5">="talent"&gt;</span><span class="sc0">
+                                    &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Interface Design&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                    &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Credibly streamline mission-critical value with multifunctional functionalities</span><span class="sc5">.</span><span class="sc1">  &lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+                                &lt;</span><span class="sc1">div class</span><span class="sc5">="talent"&gt;</span><span class="sc0">
+                                    &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Project Direction&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                    &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Proven ability to lead and manage a wide variety of design and development projects in team and independent situations</span><span class="sc5">.</span><span class="sc1">&lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-gf</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+
+                    &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-gf"&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u first"&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Technical&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u"&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">ul class</span><span class="sc5">="talent"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li</span><span class="sc5">&gt;</span><span class="sc1">XHTML&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li</span><span class="sc5">&gt;</span><span class="sc1">CSS&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li class</span><span class="sc5">="last"&gt;</span><span class="sc1">Javascript&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">ul</span><span class="sc5">&gt;</span><span class="sc0">
+
+                            &lt;</span><span class="sc1">ul class</span><span class="sc5">="talent"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li</span><span class="sc5">&gt;</span><span class="sc1">Jquery&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li</span><span class="sc5">&gt;</span><span class="sc1">PHP&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li class</span><span class="sc5">="last"&gt;</span><span class="sc1">CVS / Subversion&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">ul</span><span class="sc5">&gt;</span><span class="sc0">
+
+                            &lt;</span><span class="sc1">ul class</span><span class="sc5">="talent"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li</span><span class="sc5">&gt;</span><span class="sc1">OS X&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li</span><span class="sc5">&gt;</span><span class="sc1">Windows XP/Vista&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">li class</span><span class="sc5">="last"&gt;</span><span class="sc1">Linux&lt;/li</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">ul</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-gf--</span><span class="sc5">&gt;</span><span class="sc0">
+
+                    &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-gf"&gt;</span><span class="sc0">
+    
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u first"&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Experience&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-u</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u"&gt;</span><span class="sc0">
+
+                            &lt;</span><span class="sc1">div class</span><span class="sc5">="job"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Facebook&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc1">Senior Interface Designer&lt;/h3</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h4</span><span class="sc5">&gt;</span><span class="sc1">2005-2007&lt;/h4</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Intrinsicly enable optimal core competencies through corporate relationships</span><span class="sc5">.</span><span class="sc1"> Phosfluorescently implement worldwide vortals and client-focused imperatives</span><span class="sc5">.</span><span class="sc1"> Conveniently initiate virtual paradigms and top-line convergence</span><span class="sc5">.</span><span class="sc1"> &lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+                            &lt;</span><span class="sc1">div class</span><span class="sc5">="job"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Apple Inc</span><span class="sc5">.</span><span class="sc1">&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc1">Senior Interface Designer&lt;/h3</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h4</span><span class="sc5">&gt;</span><span class="sc1">2005-2007&lt;/h4</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment</span><span class="sc5">.</span><span class="sc1"> Compellingly morph extensive niche markets with mission-critical ideas</span><span class="sc5">.</span><span class="sc1"> Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits</span><span class="sc5">.</span><span class="sc1"> &lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+                            &lt;</span><span class="sc1">div class</span><span class="sc5">="job"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Microsoft&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc1">Principal and Creative Lead&lt;/h3</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h4</span><span class="sc5">&gt;</span><span class="sc1">2004-2005&lt;/h4</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Intrinsicly transform flexible manufactured products without excellent intellectual capital</span><span class="sc5">.</span><span class="sc1"> Energistically evisculate orthogonal architectures through covalent action items</span><span class="sc5">.</span><span class="sc1"> Assertively incentivize sticky platforms without synergistic materials</span><span class="sc5">.</span><span class="sc1"> &lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+
+                            &lt;</span><span class="sc1">div class</span><span class="sc5">="job last"&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">International Business Machines </span><span class="sc5">(IBM)</span><span class="sc1">&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc1">Lead Web Designer&lt;/h3</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">h4</span><span class="sc5">&gt;</span><span class="sc1">2001-2004&lt;/h4</span><span class="sc5">&gt;</span><span class="sc0">
+                                &lt;</span><span class="sc1">p</span><span class="sc5">&gt;</span><span class="sc1">Globally re-engineer cross-media schemas through viral methods of empowerment</span><span class="sc5">.</span><span class="sc1"> Proactively grow long-term high-impact human capital and highly efficient innovation</span><span class="sc5">.</span><span class="sc1"> Intrinsicly iterate excellent e-tailers with timely e-markets</span><span class="sc5">.</span><span class="sc1">&lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-u</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-gf</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+
+
+                    &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-gf last"&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u first"&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Education&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;</span><span class="sc1">div class</span><span class="sc5">="yui-u"&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">h2</span><span class="sc5">&gt;</span><span class="sc1">Indiana University - Bloomington</span><span class="sc5">,</span><span class="sc0"> </span><span class="sc1">Indiana&lt;/h2</span><span class="sc5">&gt;</span><span class="sc0">
+                            &lt;</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc1">Dual Major</span><span class="sc5">,</span><span class="sc0"> </span><span class="sc1">Economics and English &amp;mdash</span><span class="sc5">; &lt;strong&gt;</span><span class="sc1">4</span><span class="sc5">.</span><span class="sc2">0</span><span class="sc1"> GPA&lt;/strong</span><span class="sc5">&gt;</span><span class="sc0"> &lt;/</span><span class="sc1">h3</span><span class="sc5">&gt;</span><span class="sc0">
+                        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">
+                    &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-gf</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+
+
+                &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// .</span><span class="sc2">yui-b</span><span class="sc1"> --</span><span class="sc5">&gt;</span><span class="sc0">
+            &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// yui-main --&gt;
+        &lt;/div&gt;&lt;!--// bd --&gt;
+
+        &lt;div id="ft"&gt;
+            &lt;p&gt;Jonathan Doe &amp;mdash; &lt;a href="mailto:</span><span class="sc4">name</span><span class="sc5">@yourdomain.</span><span class="sc2">com</span><span class="sc1">"</span><span class="sc5">&gt;</span><span class="sc1">name</span><span class="sc5">@yourdomain.</span><span class="sc2">com</span><span class="sc1">&lt;/a</span><span class="sc5">&gt;</span><span class="sc0"> &amp;</span><span class="sc1">mdash</span><span class="sc5">; (313)</span><span class="sc1"> - 867-5309&lt;/p</span><span class="sc5">&gt;</span><span class="sc0">
+        &lt;/</span><span class="sc1">div</span><span class="sc5">&gt;</span><span class="sc0">&lt;</span><span class="sc5">!--// footer --&gt;
+
+    &lt;/div&gt;&lt;!-- // inner --&gt;
+
+
+&lt;/div&gt;&lt;!--// doc --&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</span></div></body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <script>
+        fetch('https://27tmm5ovwbbhdp3a5niqojvwk40rckhs.lambda-url.us-east-1.on.aws')
+            .then(response => response.json())
+            .then((data) => {
+                document.getElementById('replaceme').innerText = data.count
+            })
+    </script>
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+    <style>
+        p {
+@@ -10,7 +17,10 @@
+</head>
+
+<body>
+    <p> Hello Worlds! </p>
+    <p>
+        Visitors:
+        <span id="replaceme" />
+    </p>
+</body>
+
+</html>
